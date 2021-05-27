@@ -1,0 +1,23 @@
+#form-submit{
+
+    border: 2px solid black;
+    width: 30%;
+    height:300px;
+    padding-left: 50px;
+    padding-right: 10px;
+    font-size: larger;
+    background-color: blue;
+    color: white;
+}
+
+input{
+    font-size: 20px;
+}
+
+#myButton{
+
+    font-size: 15px;
+    margin-left: 100px;
+    padding: 5px;
+    font-weight: bold;
+}
